@@ -1,0 +1,7 @@
+streamlit
+SpeechRecognition
+gTTS
+pydub
+numpy
+diff_match_patch
+
