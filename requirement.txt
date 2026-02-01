@@ -1,7 +1,6 @@
 streamlit
-SpeechRecognition
-gTTS
+speechrecognition
+gtts
 pydub
 numpy
-diff_match_patch
-
+diff-match-patch
